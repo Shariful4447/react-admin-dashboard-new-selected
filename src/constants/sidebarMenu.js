@@ -21,22 +21,22 @@ export const sidebarMenu = [
         tag: 'divider'
     },
     {
-        title: 'Manage Team',
+        title: 'Order',
         icon: PeopleOutlinedIcon,
         path: '/team',
     },
     {
-        title: 'Contacts Information',
+        title: 'Accounts',
         icon: ContactsOutlinedIcon,
         path: '/contacts',
     },
     {
-        title: 'Invoices Balances',
+        title: 'Settings',
         icon: ReceiptOutlinedIcon,
         path: '/invoices',
     },
     {
-        title: 'Inputs',
+        title: 'Support',
         tag: 'divider'
     },
     {
