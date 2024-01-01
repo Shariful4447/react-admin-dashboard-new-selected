@@ -1,4 +1,4 @@
-> 17 Nov 2022
+> 01 Jan 2024
 
 # React Admin Dashboard |
 
@@ -40,7 +40,7 @@
 * migrate experience from Vite to React, 
     * because Vite have some issus with full-calendar lib...
 
-## in order to run 
+## In order to run 
 * install node module with npm install
 * start the application with npm start
 
