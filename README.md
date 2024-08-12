@@ -109,8 +109,3 @@ tree /f
 ```
 
 
-[📈]: https://nivo.rocks
-[📆]: https://fullcalendar.io
-[mui]: https://mui.com/material-ui/getting-started/installation
-
-
