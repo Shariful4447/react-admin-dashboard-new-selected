@@ -49,7 +49,7 @@ const Calendars = () => {
 
       <Box display="flex" justifyContent="space-between">
 
-        {/* CALENDAR SIDEBAR */}
+        
         <Box
           p="15px"
           flex="1 1 20%"
