@@ -21,7 +21,7 @@ const Team = () => {
       <Box
         m="40px 0 0 0"
         height="70vh"
-        // custom css for material ui
+        
         sx={{
           "& .MuiDataGrid-root": {
             border: "none",
