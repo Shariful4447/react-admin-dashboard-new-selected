@@ -1,4 +1,4 @@
-export { default as GeographyChart } from './GeographyChart';
+
 export { default as ProgressCircle } from './ProgressCircle';
 export { default as LineChart } from './LineChart';
 export { default as PieChart } from './PieChart';
