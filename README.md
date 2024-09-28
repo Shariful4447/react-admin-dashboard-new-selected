@@ -1,6 +1,4 @@
-> 01 Jan 2024
-
-# React Admin Dashboard |
+# React Admin Dashboard 
 
 
 ## Technology used
