@@ -19,9 +19,4 @@ export const faq = [
         question: 'Some Random Question',
         answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget.'
     },
-    {
-        id: 5,
-        question: 'The Final Question',
-        answer: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget.'
-    },
 ]
