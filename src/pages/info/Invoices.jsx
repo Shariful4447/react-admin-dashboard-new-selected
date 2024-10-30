@@ -12,7 +12,6 @@ const Invoices = () => {
   const colors = tokens(theme.palette.mode);
 
 
-  // row - columns --> data display...
   return (
     <Box m="20px">
 
@@ -21,7 +20,6 @@ const Invoices = () => {
       <Box
         m="40px 0 0 0"
         height="75vh"
-        // custom css for material ui
         sx={{
           "& .MuiDataGrid-root": {
             border: "none",
