@@ -4,13 +4,6 @@
 ## Technology used
 1. React
 2. Material UI 
-3. Formik
-4. Yup
-5. Nivo chart
-6. Full-calendar
-7. React-Pro-Sidebar
-
-
 
 ### This application consists of 
 * Light & Dark Mode
